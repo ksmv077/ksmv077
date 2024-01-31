@@ -1,4 +1,4 @@
-### Nice to meet you
+### Developer
 <hr height='1px'/>
 Стэк технологий, c которыми я работаю :
 <div style=display-flex>
