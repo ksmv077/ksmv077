@@ -1,7 +1,7 @@
 ### Developer
 <hr height='1px'/>
 Stack of technologies I work with :
-<div style=display-flex magin-top='10px'>
+<div style=display-flex>
 <img src="https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=jss&logoColor=black" width=100px/>
 <img src="https://img.shields.io/badge/-3178C6?style=for-the-badge&logo=tsnode&logoColor=black" width=100px/>
 <img src="https://img.shields.io/badge/-61DAFB?style=for-the-badge&logo=react&logoColor=black" width=100px/>
